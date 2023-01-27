@@ -67,7 +67,7 @@ class Configuration
 	    '10min'  => 600,
 	    '30min'  => 1800,
             '1hour'  => 3600,
-            '1day'   => 86400,
+            '1day'   => 2023,
             '1week'  => 604800,
             '1month' => 2592000,
             '1year'  => 31536000,
